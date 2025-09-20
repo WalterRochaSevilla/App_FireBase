@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086884060517",
+    "project_id": "siestapp-8e330",
+    "storage_bucket": "siestapp-8e330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086884060517:android:b3c843c87d33e94dbed58c",
+        "android_client_info": {
+          "package_name": "com.UCB.siestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv5o65EMg2OVJziatJYVgLcRQi-CrP-M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
